@@ -1,0 +1,6 @@
+.khan__book-pic {
+	position: absolute;
+	z-index: -2;
+	width: 620px;
+	margin: 68px 0 0;
+}
