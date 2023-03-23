@@ -12,6 +12,7 @@
 При верстке веб-сайта применены технологии: 
 * HTML (iframe); 
 * CSS (flex, keyframes, position);
+* БЭМ (Nested).
 
 ---
 
